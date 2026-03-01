@@ -1,4 +1,4 @@
-[img]!(pic/Screenshot 2026-03-01 085957.png)
+![img](pic/Screenshot 2026-03-01 085957.png)
 
 Nutrition Page Structure (Gym E-commerce) (FULL E-COMMERCE HERE)
 An intuitive nutrition interface designed for a gym e-commerce platform.
